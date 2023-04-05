@@ -1,0 +1,28 @@
+Ques. Git status
+Ans. The Git status command gives us all the necessary information about the current branch. 
+
+Ques. Git init
+Ans. This command is used to start a new repository.
+
+Ques. Git config
+Ans. This command sets the author name and email address respectively to be used with your commits.
+
+Ques. Git clone
+Ans. Git clone is a command for downloading existing source code from a remote repository(like github).
+
+Ques. Git . or git add *
+Ans. This will take all our files into the Git repository, i.e., into the staging area.
+Ques. Git commit
+Ans. This command records or snapshots the file permanently in the version history.
+
+Ques. Git log
+Ans. This command is used to list the version history for the current branch.
+
+Ques. Git push
+Ans. After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.
+
+Ques. Git pull
+Ans. This command fetches and merges changes on the remote server to your working directory.
+
+Ques. Git remote
+Ans. This command is used to connect your local repository to the remote server.
